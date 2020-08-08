@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">think-it</string>
+    <string name="home1">Smarty</string>
+    <string name="home2">Welcome Home</string>
+    <string name="homeinputFiled">your name</string>
+    <string name="buttonContinue">continue</string>
+    <string name="welcome">Welcome</string>
+
+</resources>
